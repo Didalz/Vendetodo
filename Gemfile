@@ -73,3 +73,6 @@ group :test do
 end
 # Postgresql fulltextsearch
 gem "pg_search", "~> 2.3"
+
+#pagination
+gem "pagy", "~> 5.10"
